@@ -119,3 +119,6 @@ atlassian-ide-plugin.xml
 
 # idea folder, uncomment if you don't need it
 .idea
+
+input
+output
